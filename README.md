@@ -1,6 +1,6 @@
 # Disaster Management in Django ⛑️🌐
 
-[![GitHub license](https://img.shields.io/github/license/brianmurutu/Disaster-Management-in-Django-PLP-Project)](https://github.com/brianmurutu/Disaster-Management-in-Django-PLP-Project/blob/master/LICENSE) 
+[![GitHub license](https://img.shields.io/github/license/brianmurutu/Disaster-Management-in-Django-PLP-Project)](https://github.com/brianmurutu/Disaster-Management-in-Django-PLP-Project/blob/main/LICENSE) 
 
 A Django-based web application designed to streamline and enhance disaster management efforts. This project empowers responders, organizations, and communities with tools for effective communication, resource allocation, and data-driven decision-making during crises.
 
